@@ -5,6 +5,6 @@ pinecone-client
 langchain-community
 langchain-pinecone
 langchain-openai
-pypdf
+pypdf2
 gunicorn
 sentence-transformers
