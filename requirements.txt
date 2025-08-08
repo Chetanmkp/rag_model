@@ -1,9 +1,10 @@
+fastapi
+uvicorn[standard]
 python-dotenv
 pinecone-client
 langchain-community
 langchain-pinecone
 langchain-openai
-langchain
-PyPDF2
-tiktoken
-requests
+pypdf
+gunicorn
+sentence-transformers
